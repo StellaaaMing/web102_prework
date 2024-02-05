@@ -21,6 +21,8 @@ body {
 
 .stats-container {
     display: flex;
+    background-color: rgb(212, 223, 245);
+    align-items: center;
 }
 
 .stats-card {
